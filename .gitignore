@@ -1,2 +1,5 @@
-venv
+cornac-venv
+surprise-venv
 scripts.txt
+.ipynb_checkpoints
+notes.ipynb
